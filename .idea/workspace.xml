@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3f5e702-7f4f-4317-bc67-4cd9ab9d7af8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sala/functions/h1_pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/js/game.sublime-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/js/phaser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/js/phaser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/lab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/maze-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/maze-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/papier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labirynt/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/flap.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/fonts/flappyfont/flappyfont.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/fonts/flappyfont/flappyfont.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/fullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/game-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/gameover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/get-ready.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/get-ready1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/ground-hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/instructions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/medal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/medal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/medals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/ouch.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/particle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/pipe-hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/pipes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/poop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/score.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/scoreboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/sound_mute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/start-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/assets/title1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/js/game.sublime-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/js/phaser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/js/phaser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/lab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/maze-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/maze-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/papier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/labv2/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/papier/index1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/flap.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/fonts/flappyfont/flappyfont.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/fonts/flappyfont/flappyfont.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/fullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/game-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/gameover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/get-ready.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/get-ready1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/ground-hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/instructions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/medal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/medal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/medals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/ouch.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/particle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/pipe-hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/pipes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/poop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/score.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/scoreboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/sound_mute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/start-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/assets/title1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/js/game.sublime-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/js/phaser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/js/phaser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/lab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/maze-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/maze-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/papier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/style-guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/labv2/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/data/man.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/data/numbers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/branch1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/branch2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/btn-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/drukarka1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/drukarka2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/drukarka3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/drukarka4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/game-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/l_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/level.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/levelNumbers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/numbers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/pac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/r_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/rip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/sound_mute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/stump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/time-bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/time-container.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/trunk1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/img/trunk2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/js/phaser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/sons/cut.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/sons/death.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/sons/menu.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/magazyn-rudego/sons/theme.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/super-rudy/xxx/menu_lewo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/flap.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/fonts/flappyfont/flappyfont.fnt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/fonts/flappyfont/flappyfont.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/fullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/game-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/gameover1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/get-ready.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/get-ready1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/ground-hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/instructions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/medal1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/medal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/medals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/ouch.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/particle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/pipe-hit.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/pipes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/poop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/score.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/scoreboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/sound_mute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/start-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/assets/title1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/js/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/js/game.sublime-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/js/phaser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/js/phaser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/lab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/lab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/maze-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/maze-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/maze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/gry/x2x/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sala/info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank/.idea/htdocs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rank/.idea/htdocs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rank/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rank/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rank/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/400.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/400.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/401.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/401.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/403.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/403.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/500.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/500.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/action.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sala/action.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/baza arch/mbeavis_salagier.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sala/baza arch/mbeavis_salagier.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/functions/funkcje.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/functions/funkcje.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/generatory/generator-krzyzowek/crossword.html" beforeDir="false" afterPath="$PROJECT_DIR$/sala/generatory/generator-krzyzowek/crossword.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/generatory/zakodowany-obrazek/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/generatory/zakodowany-obrazek/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/google3066ab827563f605.html" beforeDir="false" afterPath="$PROJECT_DIR$/sala/google3066ab827563f605.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/gry/papier/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/gry/papier/README-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/gry/papier/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/gry/papier/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/gry/papier/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/gry/papier/modal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/gry/papier/rudenz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/bilecik_prezentowy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/bilecik_prezentowy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/bilecik_prezentowy.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/bilecik_prezentowy.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/controls.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/controls.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/cyberink.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/cyberink.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/footer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/footer.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/footer.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/footer.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/kalendarz_adwentowy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/kalendarz_adwentowy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/kalendarz_adwentowy.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/kalendarz_adwentowy.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/koncert.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/koncert.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/koncert_male.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/koncert_male.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/list_do_mikolaja.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/list_do_mikolaja.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/list_do_mikolaja.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/list_do_mikolaja.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/list_do_mikolaja_thumbnail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/list_do_mikolaja_thumbnail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/list_do_mikolaja_thumbnail.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/list_do_mikolaja_thumbnail.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/logo_mainpage.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/logo_mainpage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/logo_mainpage.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/logo_mainpage.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/logo_rudy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/logo_rudy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/nowosci.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/nowosci.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/nowosci.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/nowosci.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/10.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/10.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/6.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/6.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/7.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/7.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/8.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/8.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/9.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/9.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory_generator_krzyzowek.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory_generator_krzyzowek.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory_generator_krzyzowek.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory_generator_krzyzowek.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory_generator_labiryntow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory_generator_labiryntow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory_generator_labiryntow.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory_generator_labiryntow.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory_rysowanie_lustrzane.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory_rysowanie_lustrzane.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory_rysowanie_lustrzane.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory_rysowanie_lustrzane.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory_zakodowany_obrazek.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory_zakodowany_obrazek.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/generatory_zakodowany_obrazek.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/generatory_zakodowany_obrazek.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_dobble.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_dobble.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_dobble.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_dobble.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_lapki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_lapki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_lapki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_lapki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_magazyn_rudego.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_magazyn_rudego.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_magazyn_rudego.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_magazyn_rudego.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_memory.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_memory.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_memory.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_memory.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_panstwa_miasta.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_panstwa_miasta.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_panstwa_miasta.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_panstwa_miasta.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_pilkarzyki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_pilkarzyki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_pilkarzyki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_pilkarzyki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_plaster_miodu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_plaster_miodu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_plaster_miodu.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_plaster_miodu.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_statki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_statki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_statki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_statki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_super_rudy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_super_rudy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_super_rudy.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_super_rudy.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_szybkopis_rudego.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_szybkopis_rudego.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_szybkopis_rudego.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_szybkopis_rudego.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_waz_wyrazowy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_waz_wyrazowy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/gry_waz_wyrazowy.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/gry_waz_wyrazowy.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_antystresowa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_antystresowa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_antystresowa.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_antystresowa.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_antystresowa_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_antystresowa_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_antystresowa_2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_antystresowa_2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_balony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_balony.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_balony.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_balony.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_biwak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_biwak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_biwak.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_biwak.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_instrukcja.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_instrukcja.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_instrukcja.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_instrukcja.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_jesienna_kolorowanka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_jesienna_kolorowanka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_jesienna_kolorowanka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_jesienna_kolorowanka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_kosmos.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_kosmos.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_kosmos.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_kosmos.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_koszyk_wielkanocny.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_koszyk_wielkanocny.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_koszyk_wielkanocny.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_koszyk_wielkanocny.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_las.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_las.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_las.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_las.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_ozdoby_swiateczne.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_ozdoby_swiateczne.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_ozdoby_swiateczne.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_ozdoby_swiateczne.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pieczatka_swiateczna.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pieczatka_swiateczna.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pieczatka_swiateczna.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pieczatka_swiateczna.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pies.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pies.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pisanka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pisanka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pisanka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_pisanka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_plaza.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_plaza.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_plaza.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_plaza.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_ponumerach.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_ponumerach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_ponumerach.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_ponumerach.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_rudy_w_kwiatach.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_rudy_w_kwiatach.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_rudy_w_kwiatach.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_rudy_w_kwiatach.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_szklana_kula.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_szklana_kula.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_szklana_kula.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_szklana_kula.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_szkola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_szkola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_szkola.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_szkola.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_tecza.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_tecza.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_tecza.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/kolorowanki_tecza.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_darmowa_wiosenna_krzyzowka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_darmowa_wiosenna_krzyzowka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_darmowa_wiosenna_krzyzowka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_darmowa_wiosenna_krzyzowka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_jesienna_krzyzowka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_jesienna_krzyzowka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_jesienna_krzyzowka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_jesienna_krzyzowka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_jesienne_hasla.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_jesienne_hasla.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_jesienne_hasla.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_jesienne_hasla.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_dla_dzieci.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_dla_dzieci.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_dla_dzieci.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_dla_dzieci.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_na_lato.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_na_lato.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_na_lato.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_na_lato.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_na_swieta.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_na_swieta.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_na_swieta.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_na_swieta.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_pytania_darmowa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_pytania_darmowa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_pytania_darmowa.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_krzyzowka_pytania_darmowa.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_lato_wakacje_krzyzowka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_lato_wakacje_krzyzowka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_lato_wakacje_krzyzowka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_lato_wakacje_krzyzowka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_swiateczna_krzyzowka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_swiateczna_krzyzowka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_swiateczna_krzyzowka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_swiateczna_krzyzowka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_szkola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_szkola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_szkola.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_szkola.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_wiosenna_krzyzowka_dla_dzieci.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_wiosenna_krzyzowka_dla_dzieci.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_wiosenna_krzyzowka_dla_dzieci.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/krzyzowki_wiosenna_krzyzowka_dla_dzieci.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynt_szkola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynt_szkola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynt_szkola.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynt_szkola.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_ciasto_Rudego.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_ciasto_Rudego.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_ciasto_Rudego.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_ciasto_Rudego.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_deszcz_pada.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_deszcz_pada.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_deszcz_pada.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_deszcz_pada.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_klapki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_klapki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_klapki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_klapki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_paczki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_paczki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_paczki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_paczki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_szkola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_szkola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_szkola.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_szkola.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wielkanoc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wielkanoc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wielkanoc.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wielkanoc.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wymien_tusze.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wymien_tusze.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wymien_tusze.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wymien_tusze.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wypelnij_kolka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wypelnij_kolka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wypelnij_kolka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/labirynty_wypelnij_kolka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_baklazan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_baklazan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_baklazan.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_baklazan.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_ciasteczka_czekoladowe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_ciasteczka_czekoladowe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_ciasteczka_czekoladowe.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_ciasteczka_czekoladowe.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_kalosze_buty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_kalosze_buty.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_kalosze_buty.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_kalosze_buty.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_pieczatka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_pieczatka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_pieczatka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_pieczatka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_przebisnieg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_przebisnieg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_przebisnieg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_przebisnieg.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_rozgwiazda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_rozgwiazda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_rozgwiazda.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_rozgwiazda.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_szkola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_szkola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_szkola.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_szkola.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_temperowka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_temperowka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_temperowka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_temperowka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_zakreslacz.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_zakreslacz.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_zakreslacz.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_zakreslacz.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_ziemniaki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_ziemniaki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_ziemniaki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_ziemniaki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_zimowe_ciasteczka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_zimowe_ciasteczka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/literaki_zimowe_ciasteczka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/literaki_zimowe_ciasteczka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ananas_mewa_czapka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ananas_mewa_czapka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ananas_mewa_czapka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ananas_mewa_czapka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_bambusy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_bambusy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_bambusy.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_bambusy.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ciastka_swiateczne.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ciastka_swiateczne.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ciastka_swiateczne.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ciastka_swiateczne.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ciastko_babeczka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ciastko_babeczka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ciastko_babeczka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ciastko_babeczka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_dlugopisy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_dlugopisy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_dlugopisy.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_dlugopisy.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_jesienne_liscie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_jesienne_liscie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_jesienne_liscie.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_jesienne_liscie.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_kosmici.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_kosmici.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_kosmici.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_kosmici.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_kwiaty_bocian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_kwiaty_bocian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_kwiaty_bocian.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_kwiaty_bocian.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_lezak_parasol_recznik.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_lezak_parasol_recznik.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_lezak_parasol_recznik.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_lezak_parasol_recznik.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_lody.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_lody.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_lody.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_lody.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_mazaki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_mazaki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_mazaki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_mazaki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ognisko_drzewa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ognisko_drzewa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ognisko_drzewa.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_ognisko_drzewa.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_robaczki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_robaczki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_robaczki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_robaczki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_szkola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_szkola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_szkola.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_szkola.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_tusze_tonery.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_tusze_tonery.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/matematyka_tusze_tonery.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/matematyka_tusze_tonery.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/nowosci.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/nowosci.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/nowosci.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/nowosci.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_cienie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_cienie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_cienie.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_cienie.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_dolewka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_dolewka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_dolewka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_dolewka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_dopasuj_wycinkami.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_dopasuj_wycinkami.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_dopasuj_wycinkami.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_dopasuj_wycinkami.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_klocki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_klocki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_klocki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_klocki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_koszyczek.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_koszyczek.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_koszyczek.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_koszyczek.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_liczby.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_liczby.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_liczby.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_liczby.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_plecak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_plecak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_plecak.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_plecak.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_segregowanie_smieci.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_segregowanie_smieci.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/polacz_segregowanie_smieci.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/polacz_segregowanie_smieci.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_kwiaty.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_kwiaty.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_kwiaty.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_kwiaty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_kwiaty.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_kwiaty.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_rudy_kosmos.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_rudy_kosmos.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_rudy_kosmos.jpg — skrót .lnk" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_rudy_kosmos.jpg — skrót .lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_rudy_kosmos.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_rudy_kosmos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_rudy_kosmos.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_rudy_kosmos.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_wakacje.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_wakacje.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_wakacje.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_wakacje.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/puzzle_wakacje.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/puzzle_wakacje.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_dom_pasta.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_dom_pasta.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_dom_pasta.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_dom_pasta.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_karta_balony.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_karta_balony.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_karta_balony.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_karta_balony.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_kura_but.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_kura_but.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_kura_but.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_kura_but.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_kura_krowa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_kura_krowa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_kura_krowa.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_kura_krowa.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_letni_wakacyjny_rebus.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_letni_wakacyjny_rebus.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_letni_wakacyjny_rebus.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_letni_wakacyjny_rebus.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_mapa_rak_sok.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_mapa_rak_sok.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_mapa_rak_sok.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_mapa_rak_sok.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_miecz_kat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_miecz_kat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_miecz_kat.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_miecz_kat.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_pole_konie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_pole_konie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_pole_konie.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_pole_konie.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_por_reka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_por_reka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_por_reka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_por_reka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_rebus_na_lato.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_rebus_na_lato.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_rebus_na_lato.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_rebus_na_lato.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_rzeka_motocykl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_rzeka_motocykl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_rzeka_motocykl.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_rzeka_motocykl.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_zamek_drzewo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_zamek_drzewo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rebusy_zamek_drzewo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rebusy_zamek_drzewo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_artykuly_szkolne.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_artykuly_szkolne.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_artykuly_szkolne.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_artykuly_szkolne.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_biwak.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_biwak.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_biwak.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_biwak.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_drukarka_kartki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_drukarka_kartki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_drukarka_kartki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_drukarka_kartki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_drukarka_kwiatki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_drukarka_kwiatki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_drukarka_kwiatki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_drukarka_kwiatki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_jesienne_roznice.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_jesienne_roznice.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_jesienne_roznice.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_jesienne_roznice.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_kosmos.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_kosmos.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_kosmos.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_kosmos.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_plaza.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_plaza.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_plaza.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_plaza.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_szklana_kula.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_szklana_kula.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_szklana_kula.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_szklana_kula.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_szkola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_szkola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_szkola.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_szkola.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_vitruvian.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_vitruvian.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/roznice_vitruvian.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/roznice_vitruvian.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rudy_macha.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rudy_macha.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rudy_macha.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rudy_macha.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rudy_macha1.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rudy_macha1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/rudy_macha1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/rudy_macha1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/sudoku_jeden.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/sudoku_jeden.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/sudoku_jeden.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/sudoku_jeden.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/sudoku_jeden_dwa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/sudoku_jeden_dwa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/sudoku_jeden_dwa.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/sudoku_jeden_dwa.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/sudoku_kwadrat_serce.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/sudoku_kwadrat_serce.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/sudoku_kwadrat_serce.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/sudoku_kwadrat_serce.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/sudoku_kwadrat_trojkat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/sudoku_kwadrat_trojkat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/sudoku_kwadrat_trojkat.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/sudoku_kwadrat_trojkat.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/szkola_plan_lekcji.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/szkola_plan_lekcji.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/szkola_plan_lekcji.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/szkola_plan_lekcji.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki_szkola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki_szkola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki_szkola.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki_szkola.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki_szkola_gwiazda.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki_szkola_gwiazda.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki_szkola_gwiazda.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/wykreslanki_szkola_gwiazda.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/zima_bilecik_prezentowy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/zima_bilecik_prezentowy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/zima_bilecik_prezentowy.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/zima_bilecik_prezentowy.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/zima_list_do_mikolaja.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/zima_list_do_mikolaja.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/zima_list_do_mikolaja.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/zima_list_do_mikolaja.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/zima_zima_bilecik_prezentowy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/zima_zima_bilecik_prezentowy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/zima_zima_bilecik_prezentowy.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/zima_zima_bilecik_prezentowy.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/zima_zima_list_do_mikolaja.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/zima_zima_list_do_mikolaja.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/obrazki/zima_zima_list_do_mikolaja.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/obrazki/zima_zima_list_do_mikolaja.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/rudy_macha1.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/rudy_macha1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/rudy_macha1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/rudy_macha1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/salagier_logo_ramka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/salagier_logo_ramka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/salagier_logo_ramka.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/salagier_logo_ramka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/salagier_logo_ramka.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/salagier_logo_ramka.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/test.png" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/tlo_gora.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/tlo_gora.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/tlo_gora.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/tlo_gora.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/tlo_lewo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/tlo_lewo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/work_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/work_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/wszystko_miniatura.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/wszystko_miniatura.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/images/wszystko_miniatura.webp" beforeDir="false" afterPath="$PROJECT_DIR$/sala/images/wszystko_miniatura.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/js/koncert.js" beforeDir="false" afterPath="$PROJECT_DIR$/sala/js/koncert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/kalendarz-adwentowy/classes/AdventCalendar.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/kalendarz-adwentowy/classes/AdventCalendar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/kalendarz-adwentowy/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/kalendarz-adwentowy/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/kalendarz-adwentowy/info.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/kalendarz-adwentowy/info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/kategorie.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/kategorie.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/kim-jest-rudy.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/kim-jest-rudy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/niowe.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/niowe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/nowosci.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/nowosci.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sala/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/phpinfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/phpinfo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/puzzle.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/puzzle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sala/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/salagier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/sitemap/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sala/sitemap/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/tag.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/tag.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/test1.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/test1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/upload/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/upload/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/upload/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/upload/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/web/menu_lewo.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/web/menu_lewo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/web/opis.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/web/opis.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/web/pokaz_img_z_nazwy_url.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/web/pokaz_img_z_nazwy_url.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/web/pokaz_img_z_nazwy_url2.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/web/pokaz_img_z_nazwy_url2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/wiosna.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/wiosna.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/wszystko.php" beforeDir="false" afterPath="$PROJECT_DIR$/sala/wszystko.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sala/zaklecia-db.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sala/zaklecia-db.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/blog/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="/usr/local/bin/composer" interpreterId="567468ba-8df0-482c-bf7a-d155673568e3" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ETNO4P2OjQfNVSbUksp5PH1krU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm&quot;: &quot;SSH Configuration&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/opt/lampp/php/man/man1/php.1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php.composer&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3f5e702-7f4f-4317-bc67-4cd9ab9d7af8" name="Changes" comment="" />
+      <created>1662615583298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662615583298</updated>
+      <workItem from="1662615586014" duration="679000" />
+      <workItem from="1662616361304" duration="13086000" />
+      <workItem from="1662701879729" duration="16759000" />
+      <workItem from="1662961331170" duration="534000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
